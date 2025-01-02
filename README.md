@@ -122,6 +122,14 @@ Modeller günlük hava durumu veri seti üzerinde eğitilmiştir. Veri seti şu 
 ## 7. Model Performansı İçin Ekstra Özellikler
 **⏸️ Early Stopping** 
 - Doğrulama kaybını izleyerek aşırı öğrenmeyi önlemek için uygulanmıştır. Doğrulama kaybı belirli bir süre boyunca iyileşmezse (varsayılan: 7 epoch), eğitim durdurulur.
+  
+## 8. Ekler
+Google Colab Bağlantıları:(https://)
+<br>
+Proje Raporu: [Rapor](https://github.com/user-attachments/files/17699832/Rapor.docx)
+<br>
+Proje Kapsamında Toplanan Veriler: [Veri Seti](https://drive.google.com/drive/u/0/folders/1eSPkRUiUx6AkxZYrtghkakOASbia3wuu)
+<br>
 
   
 
