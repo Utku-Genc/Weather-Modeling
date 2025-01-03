@@ -124,7 +124,7 @@ Modeller günlük hava durumu veri seti üzerinde eğitilmiştir. Veri seti şu 
 - Doğrulama kaybını izleyerek aşırı öğrenmeyi önlemek için uygulanmıştır. Doğrulama kaybı belirli bir süre boyunca iyileşmezse (varsayılan: 7 epoch), eğitim durdurulur.
   
 ## 8. Ekler
-Google Colab Bağlantıları:[Google Colab](https://colab.research.google.com/drive/19ggo0-2GEgF3kroaaDlKgYJUeE5F2Y7z)
+Google Colab Bağlantısı:[Google Colab](https://colab.research.google.com/drive/19ggo0-2GEgF3kroaaDlKgYJUeE5F2Y7z)
 <br>
 Proje Raporu:[Rapor](https://github.com/Utku-Genc/Weather-Modeling/blob/main/Proje%20Raporu.pdf)
 <br>
