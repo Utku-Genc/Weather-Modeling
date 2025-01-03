@@ -126,7 +126,7 @@ Modeller günlük hava durumu veri seti üzerinde eğitilmiştir. Veri seti şu 
 ## 8. Ekler
 Google Colab Bağlantıları:[Google Colab](https://colab.research.google.com/drive/19ggo0-2GEgF3kroaaDlKgYJUeE5F2Y7z)
 <br>
-Proje Raporu:[Rapor]([https://github.com/user-attachments/files/17699832/Rapor.doc](https://github.com/Utku-Genc/Weather-Modeling/blob/main/Proje%20Raporu.pdf)
+Proje Raporu:[Rapor](https://github.com/Utku-Genc/Weather-Modeling/blob/main/Proje%20Raporu.pdf)
 <br>
 Proje Kapsamında Toplanan Veriler:[Veri Seti](https://drive.google.com/drive/u/0/folders/1eSPkRUiUx6AkxZYrtghkakOASbia3wuu)
 <br>
